@@ -24,7 +24,7 @@
 ---
 
 ## 📫 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mahmoud-ali-88b9a1219/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -54,12 +54,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
-
-## 👁 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahmoud-Ali&style=for-the-badge" alt="Profile views"/>
-</p>
 
 ---
 
@@ -68,6 +62,13 @@
 - Master **React and advanced JavaScript concepts**  
 - Develop a **personal portfolio** showcasing projects and skills  
 - Continuously **learn new frameworks and tools** to stay ahead  
+
+---
+
+## 👁 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahmoud-Ali&style=for-the-badge" alt="Profile views"/>
+</p>
 
 ---
 
