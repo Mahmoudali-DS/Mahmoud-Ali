@@ -14,31 +14,46 @@
 
 ---
 
-## 🚀 About Me
-- 🧠 Currently diving deep into **Front-End Development** via an intensive bootcamp  
-- 🎯 Focused on becoming a **Junior Web Developer**, building responsive and modern UIs  
-- 👨‍💻 Learning **JavaScript, React, Bootstrap, Sass, Python**, and modern development tools  
-- ☕ Fun Fact: I thrive on curiosity (and late-night coding + coffee combos)  
-- 🌐 Future **portfolio** coming soon — stay tuned!
+## About Me
+<p align="center">
+  <img src="https://c.tenor.com/1Tm7pQKj7rMAAAAM/brain-thinking.gif" width="24" alt="Brain"/>
+  Currently diving deep into Front-End Development via an intensive bootcamp  
+</p>
+<p align="center">
+  <img src="https://c.tenor.com/FqZ8oSkGddAAAAAM/target-bullseye.gif" width="24" alt="Target"/>
+  Focused on becoming a Junior Web Developer, building responsive and modern UIs  
+</p>
+<p align="center">
+  <img src="https://c.tenor.com/fjVxBEs-qEAAAAAM/laptop-coding.gif" width="24" alt="Laptop"/>
+  Learning JavaScript, React, Bootstrap, Sass, Python, and modern development tools  
+</p>
+<p align="center">
+  <img src="https://c.tenor.com/YH9E6-rv9vYAAAAM/coffee-coding.gif" width="24" alt="Coffee"/>
+  Fun Fact: I thrive on curiosity and late-night coding + coffee combos  
+</p>
+<p align="center">
+  <img src="https://c.tenor.com/Rc-mtBfNw3UAAAAM/globe-spinning.gif" width="24" alt="Globe"/>
+  Future portfolio coming soon — stay tuned  
+</p>
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-ali-88b9a1219/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mma7hmoudali@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-mma7hmoudali@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Mahmoud-Ali" target="_blank">
+  <a href="https://github.com/Mahmoudali-DS/Mahmoud-Ali?tab=readme-ov-file" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -53,26 +68,30 @@
 
 ---
 
-## 👁 Profile Views
+## Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mahmoud-Ali&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
 
-## 💬 Favorite Anime
+## Goals
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohc0W3ZcC1VGkXcYw/giphy.gif" width="200" alt="Black Clover GIF"/>
-  <img src="https://media.giphy.com/media/3o7TKC3Ju9JKmT2Uko/giphy.gif" width="200" alt="Hunter x Hunter GIF"/>
+  <img src="https://c.tenor.com/3UxeKc7FR7AAAAAM/coding.gif" width="24" alt="Coding"/>
+  Build modern, responsive websites with clean code  
 </p>
-
----
-
-## 🎯 Goals
-- Build **modern, responsive websites** with clean code  
-- Master **React and advanced JavaScript concepts**  
-- Develop a **personal portfolio** showcasing projects and skills  
-- Continuously **learn new frameworks and tools** to stay ahead  
+<p align="center">
+  <img src="https://c.tenor.com/3UxeKc7FR7AAAAAM/coding.gif" width="24" alt="Coding"/>
+  Master React and advanced JavaScript concepts  
+</p>
+<p align="center">
+  <img src="https://c.tenor.com/3UxeKc7FR7AAAAAM/coding.gif" width="24" alt="Coding"/>
+  Develop a personal portfolio showcasing projects and skills  
+</p>
+<p align="center">
+  <img src="https://c.tenor.com/3UxeKc7FR7AAAAAM/coding.gif" width="24" alt="Coding"/>
+  Continuously learn new frameworks and tools to stay ahead  
+</p>
 
 ---
 
