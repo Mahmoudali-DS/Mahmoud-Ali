@@ -1,9 +1,9 @@
 # Mahmoud-Ali
-<img width="200" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="200" align="right" src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif">
 
 <h1 align="center">
   Welcome to Mahmoud Ali's Profile! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Waving Hand"/>
 </h1>
 
 <p align="center">
@@ -59,15 +59,25 @@
 </p>
 
 ---
+## My development goals written as a function
+function goals() {
+  return [
+    "Build modern, responsive websites with clean code",
+    "Master React and advanced JavaScript concepts",
+    "Develop a personal portfolio showcasing projects and skills",
+    "Continuously learn new frameworks and tools to stay ahead"
+  ];
+}
+console.log(goals());
 
-## 🎯 Goals
-- Build **modern, responsive websites** with clean code  
-- Master **React and advanced JavaScript concepts**  
-- Develop a **personal portfolio** showcasing projects and skills  
-- Continuously **learn new frameworks and tools** to stay ahead  
 
----
+## 💻 Example `Function`
+```javascript
+// Example of a JavaScript function
+function greetUser(name) {
+  console.log(`Hello, ${name}! Welcome to my profile.`);
+}
+greetUser("Mahmoud Ali");
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="150" alt="Coding Animation"/>
-</p>
+
+
