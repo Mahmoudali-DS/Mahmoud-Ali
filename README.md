@@ -25,10 +25,10 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/salahzouagri" target="_blank">
+  <a href="https://www.linkedin.com/in/mahmoud-ali-88b9a1219/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:salah.zouagri98@gmail.com" target="_blank">
+  <a href="mailto:mma7hmoudali@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Mahmoud-Ali" target="_blank">
@@ -60,8 +60,22 @@
 
 ---
 
-## 💬 Fun Animations
+## 💬 Favorite Anime
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/3ohc0W3ZcC1VGkXcYw/giphy.gif" width="200" alt="Black Clover GIF"/>
+  <img src="https://media.giphy.com/media/3o7TKC3Ju9JKmT2Uko/giphy.gif" width="200" alt="Hunter x Hunter GIF"/>
+</p>
+
+---
+
+## 🎯 Goals
+- Build **modern, responsive websites** with clean code  
+- Master **React and advanced JavaScript concepts**  
+- Develop a **personal portfolio** showcasing projects and skills  
+- Continuously **learn new frameworks and tools** to stay ahead  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="150" alt="Coding Animation"/>
 </p>
