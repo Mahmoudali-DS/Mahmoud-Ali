@@ -3,7 +3,7 @@
 
 <h1 align="center">
   Welcome to Mahmoud Ali's Profile! 
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="32" alt="Waving Hand"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Waving Hand"/>
 </h1>
 
 <p align="center">
