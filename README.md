@@ -67,8 +67,4 @@
 - Continuously **learn new frameworks and tools** to stay ahead  
 
 ---
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1581092795364-6aa23b0e7b83?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" width="300" alt="Programming Illustration"/>
-</p>
-
+<img src="https://raw.githubusercontent.com/owasp-amass/docs/master/images/network_06092018.png" alt="Network graph" title="Amass Network Mapping" style="max-width: 100%;">
