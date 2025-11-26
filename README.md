@@ -14,13 +14,6 @@
 
 ---
 
-## 💻 Animated Code
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400" alt="Animated Function Snippet"/>
-</p>
-
----
-
 ## 🚀 About Me
 - 🧠 Currently diving deep into **Front-End Development** via an intensive bootcamp  
 - 🎯 Focused on becoming a **Junior Web Developer**, building responsive and modern UIs  
