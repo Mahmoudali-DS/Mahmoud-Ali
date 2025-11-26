@@ -26,13 +26,16 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-ali-88b9a1219/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mma7hmoudali@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-mma7hmoudali@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/Mahmoudali-DS/Mahmoud-Ali?tab=readme-ov-file" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.facebook.com/share/17mSyWfmtp/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
@@ -67,4 +70,7 @@
 - Continuously **learn new frameworks and tools** to stay ahead  
 
 ---
-<img src="https://raw.githubusercontent.com/owasp-amass/docs/master/images/network_06092018.png" alt="Network graph" title="Amass Network Mapping" style="max-width: 100%;">
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1581092795364-6aa23b0e7b83?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" width="300" alt="Programming Illustration"/>
+</p>
