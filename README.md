@@ -3,7 +3,7 @@
 
 <h1 align="center">
   Welcome to Mahmoud Ali's Profile! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Waving Hand"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" gif="Waving Hand"/>
 </h1>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ---
 
 ## 📫 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-ali-88b9a1219/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
