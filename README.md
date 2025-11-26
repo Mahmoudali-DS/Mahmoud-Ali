@@ -69,5 +69,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="150" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/3o7TKP0BwKcnkJ1R4g/giphy.gif" width="200" alt="Programming Animation"/>
 </p>
+
