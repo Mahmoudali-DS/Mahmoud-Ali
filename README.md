@@ -60,14 +60,6 @@
 
 ---
 
-## 💬 Favorite Anime
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohc0W3ZcC1VGkXcYw/giphy.gif" width="200" alt="Black Clover GIF"/>
-  <img src="https://media.giphy.com/media/3o7TKC3Ju9JKmT2Uko/giphy.gif" width="200" alt="Hunter x Hunter GIF"/>
-</p>
-
----
-
 ## 🎯 Goals
 - Build **modern, responsive websites** with clean code  
 - Master **React and advanced JavaScript concepts**  
