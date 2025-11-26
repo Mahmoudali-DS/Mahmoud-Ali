@@ -69,6 +69,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKP0BwKcnkJ1R4g/giphy.gif" width="200" alt="Programming Animation"/>
+  <img src="https://images.unsplash.com/photo-1581092795364-6aa23b0e7b83?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" width="300" alt="Programming Illustration"/>
 </p>
 
