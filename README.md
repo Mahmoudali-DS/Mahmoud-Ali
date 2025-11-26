@@ -1,5 +1,5 @@
 # Mahmoud-Ali
-<img width="300" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="200" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h1 align="center">
   Welcome to Mahmoud Ali's Profile! 
@@ -26,16 +26,16 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-ali-88b9a1219/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" alt="LinkedIn"/>
   </a>
   <a href="mailto:mma7hmoudali@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" alt="Gmail"/>
   </a>
   <a href="https://github.com/Mahmoudali-DS/Mahmoud-Ali?tab=readme-ov-file" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" alt="GitHub"/>
   </a>
   <a href="https://www.facebook.com/share/17mSyWfmtp/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="30" alt="Facebook"/>
   </a>
 </p>
 
@@ -53,7 +53,6 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
 
 ---
 
